@@ -36,7 +36,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 
 
 ### Links  :  
-*Format   
+*Format*  
 
 http://github.com - automatic!  
 [GitHub](http://github.com)   
