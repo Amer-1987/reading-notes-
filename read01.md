@@ -47,8 +47,7 @@ I think you should use an
 `<addr>` element here instead.
 
 ### Blockquotes :    
-
-As  Miss Israa and Miss Nahla and Mr Zatar said:
+As  Miss Israa, Miss Nahla and Mr Zatar said:
 
 > N0 pain,
 > No gain.  
@@ -57,12 +56,12 @@ As  Miss Israa and Miss Nahla and Mr Zatar said:
 ### Emoji  :  
 To see a list of Emoji,  ![GitHub supports](https://gist.github.com/rxaviers/7360908)   
 
-### Automatic linking for URLs  :  
+### automatic linking for URLs :   
  Any URL (like http://www.google.com/) will be automatically converted into a clickable link.   
  
 
  
- ### Tables  :  
+ ### Table :  
  You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:  
  
  Code name   |  code101   | code101  | code201  | code301  | code401  | 
