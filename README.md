@@ -1,18 +1,8 @@
-**Programming** is the process of writing instructions and directing commands to a computer or other device.
-Each programming language has its own _characteristics_ that distinguish it from the other.
+I am **Amer Alqnahrah**. 34 years old.
+I have been graduated from Albalqa Applied University in major of Mechatronics Engineering and and from Isra University in major of Engineering Project Management. my exiperiance in `Automation`.
+I am interested in __*programming*__ because the important connection between hardware and software in Engineering side.
 
-**CLI** is a command line program that accepts text input to execute operating system functions.
-
-Command	| Description                                              |
---------|----------------------------------------------------------|
-ls	    | List the directory (folder) system.                      |
-cd      | pathname	Change directory (folder) in the file system.  |
-pwd     | print current work directory                             |
-cd ..   |	Move one level up (one folder) in the file system.       |
-mkdir	  | Creates a new directory (folder).                        |
-clear   |	Clears the CLI window.                                   |
-
-
+Thanks to all team staff for helping. 
 
 
 no.  | # TABLE OF CONTENT                                                     | 
