@@ -38,7 +38,4 @@ git pull origin main| in order to have my changes from GitHub to repo|
 
 Finally, don't forget _**ACP**_.
 
-Many thanks to ***`<Mr Abdulhakem Za3tar, Miss Nahla and Miss Isra. >`***
-
-
-
+Many thanks to ***`Mr Abdelhakem Za3tar, Miss Nahla and Miss Isra.`***
