@@ -10,7 +10,7 @@ and creating lists are just a few of the things we can do with Markdown.
 Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 ### Text  :  
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even link to [Google!](http://google.com)
 
 ### List  :
 *Sometimes you want numbered lists:*
@@ -53,28 +53,26 @@ As  Miss Israa and Miss Nahla and Mr Zatar said:
 > N0 pain,
 > No gain.  
 
+
 ### Emoji  :  
 To see a list of Emoji,  ![GitHub supports](https://gist.github.com/rxaviers/7360908)   
 
 ### Automatic linking for URLs  :  
  Any URL (like http://www.google.com/) will be automatically converted into a clickable link.   
  
- ### Username @mentions :  
- Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, 
- because you’re mentioning the individual. You can also @mention teams within an organization.
- "@102d35"
+
  
  ### Tables  :  
  You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:  
  
- the code    |  code101   | code101  | code201  | code301  | code401  | 
+ Code name   |  code101   | code101  | code201  | code301  | code401  | 
  ------------|------------| ---------|----------| ---------| ---------|
- the time    |   1 day    | 5-8 day  | 4 weeks  | 4weeks   | 10 weeks |
+ Time period |   1 day    | 5-8 day  | 4 weeks  | 4 weeks  | 10 weeks |
  
 
 
 ### Ok, That's all . I wish to get good mark and to feel that Your efforts have not been in vain .   
 
 
-### Thanks __Miss Isra'a, Miss Nahla and Mr Zatar__. Thanks to all working team in the college.
+### Thanks _Miss Isra'a, Miss Nahla and Mr Zatar_. Thanks to all working team in the college.
 
