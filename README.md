@@ -11,10 +11,8 @@ no.  | # TABLE OF CONTENT                                                     |
 2.   | [read](https://amer-1987.github.io/reading-notes-/read)                |
 3.   | [read01](https://amer-1987.github.io/reading-notes-/read01)            |
 4.   | [read02](https://amer-1987.github.io/reading-notes-/read02)            |
-<<<<<<< HEAD
-5.   | [read03]()  |
-=======
->>>>>>> edbb529fbdb2858fe4132c1c09eed0a8b4dd8946
+5.   | [read03](https://amer-1987.github.io/reading-notes-/read03)            |
+
 
 
   
