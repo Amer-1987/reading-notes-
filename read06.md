@@ -68,30 +68,27 @@ Set background colors for different elements:
 *body {  
   background-color: #fefbd8;  
 }*
-#  
+  
 
 *h1 {  
   background-color: #80ced6;  
 }* 
-#  
+  
 
 *div {  
   background-color: #d5f4e6;  
 }*
 
-#  
+
 
 *span {  
   background-color: #f18973;  
 }*  
  
-#  
+ 
 
 
 ***@Amer Alqnahrah***
 
 *Thanks to all staff that don't save any effort to help us.*   
 
-#
-#
-#
