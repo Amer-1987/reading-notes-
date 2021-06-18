@@ -43,7 +43,7 @@ An internal style sheet may be used if one single HTML page has a unique style. 
 The color property specifies the color of text.    
 
 example                       | code              |  
-----------------------------------|---------------|  
+----------------------------------|:---------------|  
 Set the text color with a HEX value: | *body {color: #92a8d1;}*  |
 Set the text color with an RGB value: | *body {color: rgb(201, 76, 76);}*|
 Set the text color with an RGBA value: | *body {color: rgba(201, 76,76, 0.6);}* |
