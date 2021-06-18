@@ -42,13 +42,14 @@ An internal style sheet may be used if one single HTML page has a unique style. 
 ### CSS color Property :  
 The color property specifies the color of text.    
 
-example                       | code              |  
-----------------------------------|:---------------|  
-Set the text color with a HEX value: | *body {color: #92a8d1;}*  |
-Set the text color with an RGB value: | *body {color: rgb(201, 76, 76);}*|
-Set the text color with an RGBA value: | *body {color: rgba(201, 76,76, 0.6);}* |
-Set the text color with a HSL value: |*body {color: hsl(89, 43%, 51%);}*| 
-Set the text color with a HSLA value:| *body {color: hsla(89, 43%, 51%, 0.6);}*|  
+example                                | code                                         |  
+---------------------------------------|:---------------------------------------------|  
+Set the text color with a HEX value:   | *body {color: #92a8d1;}*                     |
+Set the text color with an RGB value:  | *body {color: rgb(201, 76, 76);}*            |
+Set the text color with an RGBA value: | *body {color: rgba(201, 76,76, 0.6);}*       |
+Set the text color with a HSL value:   |*body {color: hsl(89, 43%, 51%);}*            | 
+Set the text color with a HSLA value:  | *body {color: hsla(89, 43%, 51%, 0.6);}*     |   
+
 to see color, visit this link :  [Css Color](https://www.w3schools.com/cssref/css_colors.asp)  
 
 #
@@ -67,20 +68,25 @@ Set background colors for different elements:
 *body {  
   background-color: #fefbd8;  
 }*
-#
+#  
+
 *h1 {  
   background-color: #80ced6;  
 }* 
-#
+#  
+
 *div {  
   background-color: #d5f4e6;  
 }*
-#
+
+#  
+
 *span {  
   background-color: #f18973;  
 }*  
-#
-#
+ 
+#  
+
 
 ***@Amer Alqnahrah***
 
