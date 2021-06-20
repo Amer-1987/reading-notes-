@@ -21,7 +21,7 @@ Such a function can be anonymous; it does not have to have a name.
 
 
 
-![](https://i.stack.imgur.com/lcPvN.png)
+![different](https://i.stack.imgur.com/lcPvN.png)
 
 ## Calling functions :  
 Defining a function does not execute it. Defining it names the function and specifies what to do when the function is called.
