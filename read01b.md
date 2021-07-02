@@ -64,7 +64,7 @@ To see a list of Emoji,  ![GitHub supports](https://gist.github.com/rxaviers/736
  ### Table :  
  You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:  
  
- Code name   |  code101   | code101  | code201  | code301  | code401  | 
+ Code name   |  code 101   | code 102  | code 201  | code 301  | code 401  | 
  ------------|------------| ---------|----------| ---------| ---------|
  Time period |   1 day    | 5-8 day  | 4 weeks  | 4 weeks  | 10 weeks |
  
