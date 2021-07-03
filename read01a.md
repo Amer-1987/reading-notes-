@@ -1,3 +1,4 @@
+# read01a
 # Quick summary about  mindset
 
  a person's way of thinking and their opinions: to have a different/the same mindset.
