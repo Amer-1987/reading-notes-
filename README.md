@@ -11,20 +11,20 @@ Thanks to all team staff for helping.
 Assignment  | Link                                                                                 | 
 ------------|:------------------------------------------------------------------------------------ |
 1. read00   | [Introducing myself](https://amer-1987.github.io/Introducing-my-self/)               |
-2. read01a  | [Mindset](https://amer-1987.github.io/Mindset/)                        |
-3. read01b  | [Markdown ](https://github.com/Amer-1987/reading-notes-/blob/main/code%20102/read01b.md)                      |
-4. read02   | [What is Git?](https://github.com/Amer-1987/reading-notes-/blob/main/code%20102/read02.md)                    |
-5. read03   | [What is a wireframe?](https://github.com/Amer-1987/reading-notes-/blob/main/code%20102/read03)            |
-6. read04b  | [JavaScript](https://github.com/Amer-1987/reading-notes-/blob/main/code%20102/read04b)                     |  
-7. read05   | [JavaScript’s Operators and Loop](https://github.com/Amer-1987/reading-notes-/blob/main/code%20102/read05) |    
-8. read06   | [CSS](https://github.com/Amer-1987/reading-notes-/blob/main/code%20102/read06)                             |    
-9. read07   | [Function in JavaScript](https://github.com/Amer-1987/reading-notes-/blob/main/code%20102/read07)          | 
+2. read01a  | [Mindset](https://amer-1987.github.io/reading-notes-/read01a)                        |
+3. read01b  | [Markdown ](https://amer-1987.github.io/reading-notes-/read01b)                      |
+4. read02   | [What is Git?](https://amer-1987.github.io/reading-notes-/read02)                    |
+5. read03   | [What is a wireframe?](https://amer-1987.github.io/reading-notes-/read03)            |
+6. read04b  | [JavaScript](https://amer-1987.github.io/reading-notes-/read04b)                     |  
+7. read05   | [JavaScript’s Operators and Loop](https://amer-1987.github.io/reading-notes-/read05) |    
+8. read06   | [CSS](https://amer-1987.github.io/reading-notes-/read06)                             |    
+9. read07   | [Function in JavaScrip](https://amer-1987.github.io/reading-notes-/read07)           | 
 
 
 ## Code 201. Reading Notes
 Assignment  | Link                                                                                 | 
 ------------|:------------------------------------------------------------------------------------ |
-1. read01   | []()               |
+1. read01   | [HTML201](https://amer-1987.github.io/reading-notes-/read01)               |
 2. read02   | []()                    |
 3. read03   | []()               |
 4. read04   | []()                    |
