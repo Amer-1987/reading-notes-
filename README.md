@@ -24,8 +24,8 @@ Assignment  | Link                                                              
 ## Code 201. Reading Notes
 Assignment  | Link                                                                                 | 
 ------------|:------------------------------------------------------------------------------------ |
-1. read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code102/code201/read01)               |
-2. read02   | []()                    |
+1. read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code201/read01)               |
+2. read02   | [ Basics of HTML, CSS & JS]()                    |
 3. read03   | []()               |
 4. read04   | []()                    |
 5. read05   | []()               |
