@@ -25,7 +25,11 @@ Assignment  | Link                                                              
 Assignment  | Link                                                                                 | 
 ------------|:------------------------------------------------------------------------------------ |
 1. read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code201/read01)               |
+<<<<<<< HEAD
 2. read02   | [ Basics of HTML, CSS & JS]()                    |
+=======
+2. read02   | []()                    |
+>>>>>>> a58790b4ce7b389681a3eef7219c37ab0039a2b8
 3. read03   | []()               |
 4. read04   | []()                    |
 5. read05   | []()               |
