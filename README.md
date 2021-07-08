@@ -26,13 +26,9 @@ Assignment  | Link
 ------------|:-----------------------------------------------------------------------------|
 1. read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code201/read01)         |
 2. read02   | [ Basics of HTML, CSS & JS](https://amer-1987.github.io/reading-notes-/code201/read02)|
-3. read03   | [HTML Lists, CSS Boxes, JS Control Flow](https://amer-1987.github.io/reading-notes-/code201/read03)               |
-
-4. read04   | [HTML Links, JS Functions, and Intro to CSS Layout]()                    |
-
-4. read04   | []()                    |
-
-5. read05   | []()               |
+3. read03   | [HTML Lists, CSS Boxes, JS Control Flow](https://amer-1987.github.io/reading-notes-/code201/read03) |
+4. read04   | [HTML Links, JS Functions, and Intro to CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read04) |
+5. read05   | [HTML Images; CSS Color & Text]()               |
 6. read06   | []()                    |
 7. read07   | []()               |
 8. read08   | []()                    |
