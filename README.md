@@ -31,7 +31,7 @@ Assignment  | Link                                                              
 5. read05   | [HTML Images; CSS Color & Text](https://amer-1987.github.io/reading-notes-/code201/read05)  |
 6. read06   | [Problem Domain, Objects, and the DOM](https://amer-1987.github.io/reading-notes-/code201/read06)     |
 7. read07   | [HTML Tables; JS Constructor Functions](https://amer-1987.github.io/reading-notes-/code201/read07)   |
-8. read08   | [CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read08)                    |
+8. read08   | [CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read08)   |
 9. read09   | [Forms and JS Events ]()  |
 10. read10  | []()  |
 11. read11  | []()  |
