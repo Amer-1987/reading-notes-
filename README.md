@@ -34,7 +34,7 @@ Assignment  | Link                                                              
 8. read08   | [CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read08)   |
 9. read09   | [Forms and JS Events ](https://amer-1987.github.io/reading-notes-/code201/read09)  |
 10. read10  | [Debugging](https://amer-1987.github.io/reading-notes-/code201/read10)  |
-11. read11  | [Images, Audio and Video ]()  |
+11. read11  | [Images, Audio and Video ](https://amer-1987.github.io/reading-notes-/code201/read11)  |
 12. read12  | []()  |
 13. read13  | []()  |
 14. read14  | []()  |
