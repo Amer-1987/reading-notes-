@@ -33,8 +33,8 @@ Assignment  | Link                                                              
 7. read07   | [HTML Tables; JS Constructor Functions](https://amer-1987.github.io/reading-notes-/code201/read07)|
 8. read08   | [CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read08)   |
 9. read09   | [Forms and JS Events ](https://amer-1987.github.io/reading-notes-/code201/read09)  |
-10. read10  | [Debugging]()  |
-11. read11  | []()  |
+10. read10  | [Debugging](https://amer-1987.github.io/reading-notes-/code201/read10)  |
+11. read11  | [Images, Audio and Video ]()  |
 12. read12  | []()  |
 13. read13  | []()  |
 14. read14  | []()  |
