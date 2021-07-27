@@ -36,7 +36,7 @@ Assignment  | Link                                                              
 10. read10  | [Debugging](https://amer-1987.github.io/reading-notes-/code201/read10)  |
 11. read11  | [Images, Audio and Video ](https://amer-1987.github.io/reading-notes-/code201/read11)  |
 12. read12  | [Chart.js, Canvas](https://amer-1987.github.io/reading-notes-/code201/read12)  |
-13. read13  | []()  |
+13. read13  | [Local Storage](https://amer-1987.github.io/reading-notes-/code201/read13)  |
 14. read14  | []()  |
 15. read15  | []()  |
 
