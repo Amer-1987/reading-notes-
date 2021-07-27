@@ -11,7 +11,6 @@ Specifying image sizes helps pages to load more smoothly because the HTML and CS
 You might think that your site is likely to have images of all different sizes, but a lot of sites use the same sized image across 
 many of their pages.  
 
-![](image/img.PNG)  
 
 
 ###  Aligning images in CSS  
