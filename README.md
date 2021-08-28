@@ -1,12 +1,14 @@
 # About me
 
 I am **_Amer Alqnahrah_**. 34 years old.
-I have been graduated from Albalqa Applied University in major of Mechatronics Engineering and from Isra University in major of Engineering Project Management. my experience was in `Automation`.
-I am interested in __programming__ because the important connection between hardware and software in Engineering field.
+I have been graduated from Albalqa Applied University with a bachelor degree in major of Mechatronics Engineering and from Isra University with a master degree in major of Engineering Project Management. my experience was in `Automation`.
+I am interested in __programming__ because I believe in the great important between Engineering and Programming.
 
 Thanks to all team staff for helping. 
 
-## Code 102. Reading Notes
+# Reading Notes
+
+## Code 102.  Intro to Software Development
 
 Assignment  | Link                                                                                 | 
 ------------|:------------------------------------------------------------------------------------ |
@@ -21,7 +23,7 @@ Assignment  | Link                                                              
 9. read07   | [Function in JavaScrip](https://amer-1987.github.io/reading-notes-/code102/read07)           | 
 
 
-## Code 201. Reading Notes
+## Code 201. Foundations of Software Development
 Assignment  | Link                                                                                 | 
 ------------|:------------------------------------------------------------------------------------ |
 1. read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code201/read01)         |
@@ -37,10 +39,25 @@ Assignment  | Link                                                              
 11. read11  | [Images, Audio and Video ](https://amer-1987.github.io/reading-notes-/code201/read11)  |
 12. read12  | [Chart.js, Canvas](https://amer-1987.github.io/reading-notes-/code201/read12)  |
 13. read13  | [Local Storage](https://amer-1987.github.io/reading-notes-/code201/read13)  |
-14. read14  | [CSS Transforms, Transitions, and Animations](https://amer-1987.github.io/reading-notes-/code201/read14a)  |
-15. read15  | []()  |
+14. read14  | [CSS Transforms, Transitions, and Animations](https://amer-1987.github.io/reading-notes-/code201/read14a)  |  
 
 
+## Code 301. Intermediate Software Development
+Assignment  | Link                                                                                 | 
+------------|:------------------------------------------------------------------------------------ |
+1. read01   | []()         |
+
+
+
+## Code 401. Code 401 - Advanced Software Development
+Assignment  | Link                                                                                 | 
+------------|:------------------------------------------------------------------------------------ |
+1. read01   | []()         |
+
+
+## Markdown Features :
+Documentation is one of your product's interfaces with your users. A well-written and well-organized set of docs helps your users understand your product quickly.
+Markdown is a syntax that enables you to write formatted content in a readable syntax.
 
 
   
