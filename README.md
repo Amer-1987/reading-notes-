@@ -14,13 +14,13 @@ Assignment  | Link
 ------------| ------------------------------------------------------------------------------------ 
  1- read00   | [Introducing myself](https://amer-1987.github.io/Introducing-my-self/)               
  2- read01a  | [Mindset](https://amer-1987.github.io/reading-notes-/code102/read01a)                        
- 3- read01b  | [Markdown ](https://amer-1987.github.io/reading-notes-/code102/read01b)                      |
-4- read02   | [What is Git?](https://amer-1987.github.io/reading-notes-/code102/read02)                    |
-5- read03   | [What is a wireframe?](https://amer-1987.github.io/reading-notes-/code102/read03)            |
-6- read04b  | [JavaScript](https://amer-1987.github.io/reading-notes-/code102/read04b)                     |  
-7- read05   | [JavaScript’s Operators and Loop](https://amer-1987.github.io/reading-notes-/code102/read05) |    
-8- read06   | [CSS](https://amer-1987.github.io/reading-notes-/code102/read06)                             |    
-9- read07   | [Function in JavaScrip](https://amer-1987.github.io/reading-notes-/code102/read07)           | 
+ 3- read01b  | [Markdown ](https://amer-1987.github.io/reading-notes-/code102/read01b)                     
+4- read02   | [What is Git?](https://amer-1987.github.io/reading-notes-/code102/read02)                    
+5- read03   | [What is a wireframe?](https://amer-1987.github.io/reading-notes-/code102/read03)            
+6- read04b  | [JavaScript](https://amer-1987.github.io/reading-notes-/code102/read04b)                     
+7- read05   | [JavaScript’s Operators and Loop](https://amer-1987.github.io/reading-notes-/code102/read05) 
+8- read06   | [CSS](https://amer-1987.github.io/reading-notes-/code102/read06)                             
+9- read07   | [Function in JavaScrip](https://amer-1987.github.io/reading-notes-/code102/read07)           
 
 
 ## Code 201. Foundations of Software Development
@@ -43,16 +43,16 @@ Assignment  | Link                                                              
 
 
 ## Code 301. Intermediate Software Development
-Assignment  | Link                                                                                 | 
-------------|:------------------------------------------------------------------------------------ |
-1- read01   | []()         |
+Assignment  | Link                                                                                 
+------------|:------------------------------------------------------------------------------------ 
+1- read01   | []()         
 
 
 
 ## Code 401. Code 401 - Advanced Software Development
-Assignment  | Link                                                                                 | 
-------------|:------------------------------------------------------------------------------------ |
-1- read01   | []()         |
+Assignment  | Link                                                                                 
+------------|:------------------------------------------------------------------------------------ 
+1- read01   | []()         
 
 
 ## Markdown Features :
