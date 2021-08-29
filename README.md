@@ -23,39 +23,39 @@ Assignment  | Link
 9- read07   | [Function in JavaScrip](https://amer-1987.github.io/reading-notes-/code102/read07)           
 
 
-## Code 201. Foundations of Software Development
-Assignment  | Link                                                                                 | 
-------------|:------------------------------------------------------------------------------------ |
-1- read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code201/read01)         |
-2- read02   | [ Basics of HTML, CSS & JS](https://amer-1987.github.io/reading-notes-/code201/read02)|
-3- read03   | [HTML Lists, CSS Boxes, JS Control Flow](https://amer-1987.github.io/reading-notes-/code201/read03) |
-4- read04   | [HTML Links, JS Functions, and Intro to CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read04) |
-5- read05   | [HTML Images; CSS Color & Text](https://amer-1987.github.io/reading-notes-/code201/read05)  |
-6- read06   | [Problem Domain, Objects, and the DOM](https://amer-1987.github.io/reading-notes-/code201/read06) |
-7- read07   | [HTML Tables; JS Constructor Functions](https://amer-1987.github.io/reading-notes-/code201/read07)|
-8- read08   | [CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read08)   |
-9- read09   | [Forms and JS Events ](https://amer-1987.github.io/reading-notes-/code201/read09)  |
-10- read10  | [Debugging](https://amer-1987.github.io/reading-notes-/code201/read10)  |
-11- read11  | [Images, Audio and Video ](https://amer-1987.github.io/reading-notes-/code201/read11)  |
-12- read12  | [Chart.js, Canvas](https://amer-1987.github.io/reading-notes-/code201/read12)  |
-13- read13  | [Local Storage](https://amer-1987.github.io/reading-notes-/code201/read13)  |
-14- read14  | [CSS Transforms, Transitions, and Animations](https://amer-1987.github.io/reading-notes-/code201/read14a)  |  
+## Code 201. Foundations of Software Development  
+Assignment  | Link                                                                                     
+------------|------------------------------------------------------------------------------------   
+1- read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code201/read01)         
+2- read02   | [ Basics of HTML, CSS & JS](https://amer-1987.github.io/reading-notes-/code201/read02)  
+3- read03   | [HTML Lists, CSS Boxes, JS Control Flow](https://amer-1987.github.io/reading-notes-/code201/read03)   
+4- read04   | [HTML Links, JS Functions, and Intro to CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read04)  
+5- read05   | [HTML Images; CSS Color & Text](https://amer-1987.github.io/reading-notes-/code201/read05)    
+6- read06   | [Problem Domain, Objects, and the DOM](https://amer-1987.github.io/reading-notes-/code201/read06)   
+7- read07   | [HTML Tables; JS Constructor Functions](https://amer-1987.github.io/reading-notes-/code201/read07)  
+8- read08   | [CSS Layout](https://amer-1987.github.io/reading-notes-/code201/read08)     
+9- read09   | [Forms and JS Events ](https://amer-1987.github.io/reading-notes-/code201/read09)    
+10- read10  | [Debugging](https://amer-1987.github.io/reading-notes-/code201/read10)    
+11- read11  | [Images, Audio and Video ](https://amer-1987.github.io/reading-notes-/code201/read11)    
+12- read12  | [Chart.js, Canvas](https://amer-1987.github.io/reading-notes-/code201/read12)     
+13- read13  | [Local Storage](https://amer-1987.github.io/reading-notes-/code201/read13)    
+14- read14  | [CSS Transforms, Transitions, and Animations](https://amer-1987.github.io/reading-notes-/code201/read14a)    
 
 
-## Code 301. Intermediate Software Development
-Assignment  | Link                                                                                 
-------------|:------------------------------------------------------------------------------------ 
-1- read01   | [ Introduction to React and Components](https://github.com/Amer-1987/reading-notes-/blob/main/code301/read01.md)         
+## Code 301. Intermediate Software Development  
+Assignment  | Link                                                                                     
+------------|:------------------------------------------------------------------------------------   
+1- read01   | [ Introduction to React and Components](https://github.com/Amer-1987/reading-notes-/blob/main/code301/read01.md)           
 
 
 
-## Code 401. Code 401 - Advanced Software Development
-Assignment  | Link                                                                                 
-------------|:------------------------------------------------------------------------------------ 
-1- read01   | []()         
+## Code 401. Code 401 - Advanced Software Development  
+Assignment  | Link                                                                                   
+------------|:------------------------------------------------------------------------------------   
+1- read01   | []()           
 
 
-## Markdown Features :
+## Markdown Features :  
 Documentation is one of your product's interfaces with your users. A well-written and well-organized set of docs helps your users understand your product quickly.
 Markdown is a syntax that enables you to write formatted content in a readable syntax.
 
