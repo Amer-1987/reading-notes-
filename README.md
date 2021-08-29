@@ -24,8 +24,9 @@ Assignment  | Link
 
 
 ## Code 201. Foundations of Software Development  
+
 Assignment  | Link                                                                                     
-------------|------------------------------------------------------------------------------------   
+------------|------------------------------------------------------------------------------------
 1- read01   | [HTML201](https://amer-1987.github.io/reading-notes-/code201/read01)         
 2- read02   | [ Basics of HTML, CSS & JS](https://amer-1987.github.io/reading-notes-/code201/read02)  
 3- read03   | [HTML Lists, CSS Boxes, JS Control Flow](https://amer-1987.github.io/reading-notes-/code201/read03)   
@@ -43,15 +44,16 @@ Assignment  | Link
 
 
 ## Code 301. Intermediate Software Development  
+
 Assignment  | Link                                                                                     
-------------|:------------------------------------------------------------------------------------   
+------------| ------------------------------------------------------------------------------------   
 1- read01   | [ Introduction to React and Components](https://github.com/Amer-1987/reading-notes-/blob/main/code301/read01.md)           
 
 
 
 ## Code 401. Code 401 - Advanced Software Development  
 Assignment  | Link                                                                                   
-------------|:------------------------------------------------------------------------------------   
+------------| ------------------------------------------------------------------------------------   
 1- read01   | []()           
 
 
