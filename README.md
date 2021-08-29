@@ -45,7 +45,7 @@ Assignment  | Link                                                              
 ## Code 301. Intermediate Software Development
 Assignment  | Link                                                                                 
 ------------|:------------------------------------------------------------------------------------ 
-1- read01   | [ Introduction to React and Components]()         
+1- read01   | [ Introduction to React and Components](https://github.com/Amer-1987/reading-notes-/blob/main/code301/read01.md)         
 
 
 
