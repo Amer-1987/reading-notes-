@@ -47,7 +47,7 @@ Assignment  | Link
 
 Assignment  | Link                                                                                     
 ------------| ------------------------------------------------------------------------------------   
-1- read01   | [ Introduction to React and Components](https://github.com/Amer-1987/reading-notes-/blob/main/code301/read01.md)           
+1- read01   | [ Introduction to React and Components](https://amer-1987.github.io/reading-notes-/code301/read01)           
 
 
 
