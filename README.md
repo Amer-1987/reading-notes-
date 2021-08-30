@@ -48,7 +48,8 @@ Assignment  | Link
 Assignment  | Link                                                                                     
 ------------| ------------------------------------------------------------------------------------   
 1- read01   | [ Introduction to React and Components](https://amer-1987.github.io/reading-notes-/code301/read01)       
-2- read02   | [ State and Props ](https://amer-1987.github.io/reading-notes-/code301/read02)          
+2- read02   | [ State and Props ](https://amer-1987.github.io/reading-notes-/code301/read02)      
+2- read03   | [Passing Functions as Props ](https://amer-1987.github.io/reading-notes-/code301/read03)         
 
 
 
