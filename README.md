@@ -50,7 +50,8 @@ Assignment  | Link
 3- read03   | [Passing Functions as Props](https://amer-1987.github.io/reading-notes-/code301/read03)  
 4- read04   | [React and Forms](https://amer-1987.github.io/reading-notes-/code301/read04)
 5- read05   | [Putting it all together](https://amer-1987.github.io/reading-notes-/code301/read05)
-5- read06   | [NODE.JS](https://amer-1987.github.io/reading-notes-/code301/read06)
+6- read06   | [NODE.JS](https://amer-1987.github.io/reading-notes-/code301/read06)
+7- read07   | [REST](https://amer-1987.github.io/reading-notes-/code301/read07)
 
 ## Code 401. Advanced Software Development
 
