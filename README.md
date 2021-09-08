@@ -53,6 +53,7 @@ Assignment  | Link
 6- read06   | [NODE.JS](https://amer-1987.github.io/reading-notes-/code301/read06)
 7- read07   | [REST](https://amer-1987.github.io/reading-notes-/code301/read07)
 8- read08   | [APIs](https://amer-1987.github.io/reading-notes-/code301/read08)
+9- read09   | [FUNCTIONAL PROGRAMMING](https://amer-1987.github.io/reading-notes-/code301/read09)
 
 ## Code 401. Advanced Software Development
 
