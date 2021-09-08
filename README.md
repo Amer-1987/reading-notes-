@@ -54,6 +54,7 @@ Assignment  | Link
 7- read07   | [REST](https://amer-1987.github.io/reading-notes-/code301/read07)
 8- read08   | [APIs](https://amer-1987.github.io/reading-notes-/code301/read08)
 9- read09   | [FUNCTIONAL PROGRAMMING](https://amer-1987.github.io/reading-notes-/code301/read09)
+10- read10   | [In memory storage](https://amer-1987.github.io/reading-notes-/code301/read10)
 
 ## Code 401. Advanced Software Development
 
