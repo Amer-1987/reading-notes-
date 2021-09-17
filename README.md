@@ -57,6 +57,7 @@ Assignment  | Link
 10- read10   | [In memory storage](https://amer-1987.github.io/reading-notes-/code301/read10)
 11- read11   | [Authentication](https://amer-1987.github.io/reading-notes-/code301/read11)
 12- read12  | [Mongo and Mongoose](https://amer-1987.github.io/reading-notes-/code301/read12)
+13- read13  | [CRUD](https://amer-1987.github.io/reading-notes-/code301/read13)
 
 ## Code 401. Advanced Software Development
 
